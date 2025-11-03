@@ -31,6 +31,7 @@ You will need to include the following modules to use `create_pendulum_animation
 from matplotlib.animation import FuncAnimation
 from IPython.display import HTML
 ```
+m
 
 The animation function is defined here:
 
